@@ -7,7 +7,7 @@ module.exports = function(grunt){
                 banner: '\n'
             },
             bulid: {
-                src: 'ueditor/ueditor.all.js',
+                src: 'js/ueditor.all.js',
                 dest: 'dest/ueditor.all.min.js'
             }
         }
